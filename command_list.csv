@@ -1,0 +1,48 @@
+    1  git config --global user.name "Bozhko"
+    2  ls -l
+    3  git config --global user.email "bozhkosp@gmail.com"
+    4  cd https://github.com/SergiyBozhko/HW_10.git
+    5  ls -l
+    6  claer
+    7  clear
+    8  git clone https://github.com/SergiyBozhko/HW_10.git
+    9  git ztatus
+   10  git status
+   11  cd https://github.com/SergiyBozhko/HW_10.git
+   12  cd /c/Users/boshko/Desktop/HW12QA35/HW_10
+   13  clear
+   14  touch text_ignore.txt
+   15  cd gitignore
+   16  ls -l
+   17  cd /c/Users/boshko/Desktop/HW12QA35/HW_10/README.md /c/Users/boshko/Desktop/HW12QA35/HW_10/text_ignore.txt /c/Users/boshko/Desktop/HW12QA35/HW_10/.gitignore
+   18  ls -l
+   19  vim .gitignore
+   20  git status
+   21  git add *
+   22  git add.
+   23  git add *
+   24  git commit -m "BSP"
+   25  touch main_test.txt
+   26  ls -l
+   27  git add *
+   28  git commit -m "BSP2"
+   29  git branch develop
+   30  git checkout develop
+   31  touch develop_test.txt
+   32  git add *
+   33  git commit -m "BSP3"
+   34  vim develop_test.txt
+   35  git status
+   36  gid add *
+   37  gid add*
+   38  git add*
+   39  git add *
+   40  git commit -m "BSP4"
+   41  git checkout main
+   42  git merge develop
+   43  git log
+   44  git status
+   45  git log
+   46  clear
+   47  git log
+   48  history > command_list.csv
